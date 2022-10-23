@@ -13,3 +13,10 @@
 section {
   padding-top: 4rem;
 }
+
+.navbar-brand {
+  padding-left: 2rem;
+  font-family: "Lucida Sans Unicode";
+  font-weight: 400;
+  font-size: 48px;
+}
