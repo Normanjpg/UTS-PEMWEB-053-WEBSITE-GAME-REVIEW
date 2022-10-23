@@ -1,0 +1,15 @@
+.jumbotron {
+  padding-top: 6rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  padding-bottom: 2rem;
+  background-color: rgb(75, 116, 140);
+}
+.carousel-item img {
+  width: 100%;
+  height: 100vh;
+}
+
+section {
+  padding-top: 4rem;
+}
